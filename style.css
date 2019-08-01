@@ -1,0 +1,1068 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+#Web_1920___1 * {
+	margin: 0;
+	padding: 0;
+	poition: relative;
+}
+#Web_1920___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 100%;
+	height: 5215px;
+	font-family: noto;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+	--web-page-font: noto;
+}
+#____4 {
+	fill: rgba(230,230,230,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.____4 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 455px;
+	left: 0px;
+	top: 4617px;
+}
+#_______190801_0012 {
+	fill: url(#_______190801_0012_A0_Rectangle_3_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+._______190801_0012 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Works {
+	position: absolute;
+	left: 859px;
+	top: 1280px;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(112,112,112,1);
+}
+#_______ {
+	position: absolute;
+	left: 1066px;
+	top: 1460px;
+	overflow: hidden;
+	width: 557px;
+	height: 87px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 57px;
+	color: rgba(112,112,112,1);
+}
+#ID1 {
+	fill: url(#ID1_A0_Rectangle_5_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 500px;
+	left: 266px;
+	top: 1460px;
+}
+#______________________________ {
+	position: absolute;
+	left: 1066px;
+	top: 1645px;
+	overflow: hidden;
+	width: 557px;
+	height: 267px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#_____3__ {
+	position: absolute;
+	left: 1066px;
+	top: 1879px;
+	overflow: hidden;
+	width: 589px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#________1___2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1066px;
+	top: 1593px;
+	overflow: visible;
+}
+#___1 {
+	fill: rgba(255,187,0,1);
+}
+.___1 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Illustrator {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#____ {
+	position: absolute;
+	left: 1066px;
+	top: 1547px;
+	overflow: hidden;
+	width: 525px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#Cancam {
+	position: absolute;
+	left: 1066px;
+	top: 2090px;
+	overflow: hidden;
+	width: 557px;
+	height: 87px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 57px;
+	color: rgba(112,112,112,1);
+}
+#ID2 {
+	fill: url(#ID2_A0_Rectangle_7_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID2 {
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 500px;
+	left: 266px;
+	top: 2090px;
+}
+#_______________________________A0_Text_8 {
+	position: absolute;
+	left: 1066px;
+	top: 2275px;
+	overflow: hidden;
+	width: 557px;
+	height: 267px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#_____1__ {
+	position: absolute;
+	left: 1066px;
+	top: 2509px;
+	overflow: hidden;
+	width: 589px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#________1___2_A0_SymbolInstance_2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1066px;
+	top: 2223px;
+	overflow: visible;
+}
+#___1_A0_Path_2 {
+	fill: rgba(255,187,0,1);
+}
+.___1_A0_Path_2 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Illustrator_A0_Text_10 {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#_________________ {
+	position: absolute;
+	left: 1066px;
+	top: 2177px;
+	overflow: hidden;
+	width: 525px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#_____1 {
+	position: absolute;
+	width: 1388px;
+	height: 500px;
+	left: 266px;
+	top: 2720px;
+	overflow: visible;
+}
+#Shair {
+	position: absolute;
+	left: 800px;
+	top: 0px;
+	overflow: hidden;
+	width: 557px;
+	height: 87px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 57px;
+	color: rgba(112,112,112,1);
+}
+#ID3 {
+	fill: url(#ID3_A0_Rectangle_9_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID3 {
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 500px;
+	left: 0px;
+	top: 0px;
+}
+#_______________________________A0_Text_13 {
+	position: absolute;
+	left: 800px;
+	top: 185px;
+	overflow: hidden;
+	width: 557px;
+	height: 267px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#_____1___A0_Text_14 {
+	position: absolute;
+	left: 800px;
+	top: 419px;
+	overflow: hidden;
+	width: 589px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#________1___1 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 930px;
+	top: 133px;
+	overflow: visible;
+}
+#Illustrator_A0_Text_15 {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________1___2_A0_SymbolInstance_4 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 800px;
+	top: 133px;
+	overflow: visible;
+}
+#___1_A0_Path_3 {
+	fill: rgba(255,187,0,1);
+}
+.___1_A0_Path_3 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Illustrator_A0_Text_16 {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#______________ {
+	position: absolute;
+	left: 800px;
+	top: 87px;
+	overflow: hidden;
+	width: 525px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#_____1_A0_Group_2 {
+	position: absolute;
+	width: 1388px;
+	height: 500px;
+	left: 266px;
+	top: 3350px;
+	overflow: visible;
+}
+#Where_s_my_place {
+	position: absolute;
+	left: 800px;
+	top: 0px;
+	overflow: hidden;
+	width: 557px;
+	height: 87px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 57px;
+	color: rgba(112,112,112,1);
+}
+#ID4 {
+	fill: url(#ID4_A0_Rectangle_11_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID4 {
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 500px;
+	left: 0px;
+	top: 0px;
+}
+#_______________________________A0_Text_19 {
+	position: absolute;
+	left: 800px;
+	top: 185px;
+	overflow: hidden;
+	width: 557px;
+	height: 267px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#_____3_ {
+	position: absolute;
+	left: 800px;
+	top: 438px;
+	overflow: hidden;
+	width: 589px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#________1___2_A0_SymbolInstance_5 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 800px;
+	top: 133px;
+	overflow: visible;
+}
+#___1_A0_Path_4 {
+	fill: rgba(255,187,0,1);
+}
+.___1_A0_Path_4 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Illustrator_A0_Text_21 {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#_____A0_Text_22 {
+	position: absolute;
+	left: 800px;
+	top: 87px;
+	overflow: hidden;
+	width: 525px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#_____1_A0_Group_3 {
+	position: absolute;
+	width: 1388px;
+	height: 500px;
+	left: 266px;
+	top: 3980px;
+	overflow: visible;
+}
+#__ {
+	position: absolute;
+	left: 800px;
+	top: 0px;
+	overflow: hidden;
+	width: 557px;
+	height: 87px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 57px;
+	color: rgba(112,112,112,1);
+}
+#ID5 {
+	fill: url(#ID5_A0_Rectangle_13_pattern);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.ID5 {
+	position: absolute;
+	overflow: visible;
+	width: 700px;
+	height: 500px;
+	left: 0px;
+	top: 0px;
+}
+#_______________________________A0_Text_24 {
+	position: absolute;
+	left: 800px;
+	top: 185px;
+	overflow: hidden;
+	width: 557px;
+	height: 267px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
+}
+#_____1___A0_Text_25 {
+	position: absolute;
+	left: 800px;
+	top: 419px;
+	overflow: hidden;
+	width: 589px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#________1___2_A0_SymbolInstance_6 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 800px;
+	top: 133px;
+	overflow: visible;
+}
+#___1_A0_Path_5 {
+	fill: rgba(255,187,0,1);
+}
+.___1_A0_Path_5 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Illustrator_A0_Text_26 {
+	position: absolute;
+	left: 21px;
+	top: 9px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#_____A0_Text_27 {
+	position: absolute;
+	left: 800px;
+	top: 87px;
+	overflow: hidden;
+	width: 525px;
+	height: 33px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(112,112,112,1);
+}
+#_____2 {
+	position: absolute;
+	width: 1117px;
+	height: 238px;
+	left: 402px;
+	top: 4727px;
+	overflow: visible;
+}
+#_____A0_Text_28 {
+	position: absolute;
+	left: 363px;
+	top: 0px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+#monnmonn {
+	fill: url(#monnmonn_A0_Ellipse_2_pattern);
+}
+.monnmonn {
+	position: absolute;
+	overflow: visible;
+	width: 238px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+}
+#_________2 {
+	position: absolute;
+	width: 754px;
+	height: 146px;
+	left: 363px;
+	top: 92px;
+	overflow: hidden;
+}
+#_________2_0 {
+	position: absolute;
+	width: 883px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#___A0_Text_29 {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#_________________________1_ {
+	position: absolute;
+	left: 114px;
+	top: 0px;
+	overflow: hidden;
+	width: 770px;
+	height: 37px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#_________2_1 {
+	position: absolute;
+	width: 883px;
+	height: 37px;
+	left: 0px;
+	top: 46px;
+	overflow: visible;
+}
+#___ {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#Illustrator_Photoshop_Xd______ {
+	position: absolute;
+	left: 114px;
+	top: 0px;
+	overflow: hidden;
+	width: 770px;
+	height: 37px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#_________2_2 {
+	position: absolute;
+	width: 883px;
+	height: 37px;
+	left: 0px;
+	top: 92px;
+	overflow: visible;
+}
+#_____ {
+	position: absolute;
+	left: 0px;
+	top: 6px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#____________________ {
+	position: absolute;
+	left: 114px;
+	top: 0px;
+	overflow: hidden;
+	width: 770px;
+	height: 37px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#____5 {
+	fill: rgba(169,169,169,1);
+}
+.____5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 143px;
+	left: 0px;
+	top: 5072px;
+}
+#Copyright____2019_Mizuki_Hino_ {
+	position: absolute;
+	left: 695px;
+	top: 5127px;
+	overflow: visible;
+	width: 532px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#________4___2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1196px;
+	top: 1593px;
+	overflow: visible;
+}
+#___4 {
+	fill: rgba(169,25,25,1);
+}
+.___4 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Craft {
+	position: absolute;
+	left: 38px;
+	top: 9px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________5___2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1326px;
+	top: 1593px;
+	overflow: visible;
+}
+#___5 {
+	fill: rgba(108,176,158,1);
+}
+.___5 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#_____A0_Text_37 {
+	position: absolute;
+	left: 25px;
+	top: 9px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________3___2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1196px;
+	top: 2223px;
+	overflow: visible;
+}
+#___3 {
+	fill: rgba(216,107,194,1);
+}
+.___3 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Xd {
+	position: absolute;
+	left: 46px;
+	top: 9px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________2___2 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1326px;
+	top: 2223px;
+	overflow: visible;
+}
+#___2 {
+	fill: rgba(0,196,255,1);
+}
+.___2 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Photoshop {
+	position: absolute;
+	left: 17px;
+	top: 9px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________4___3 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1196px;
+	top: 2853px;
+	overflow: visible;
+}
+#___4_A0_Path_10 {
+	fill: rgba(169,25,25,1);
+}
+.___4_A0_Path_10 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#Craft_A0_Text_40 {
+	position: absolute;
+	left: 38px;
+	top: 9px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#________5___3 {
+	position: absolute;
+	width: 110px;
+	height: 39px;
+	left: 1196px;
+	top: 4113px;
+	overflow: visible;
+}
+#___5_A0_Path_11 {
+	fill: rgba(108,176,158,1);
+}
+.___5_A0_Path_11 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 110px;
+	height: 39px;
+}
+#_____A0_Text_41 {
+	position: absolute;
+	left: 25px;
+	top: 9px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#MIZUKI_s_PORTFOLIO {
+	position: absolute;
+	left: 66px;
+	top: 896px;
+	overflow: visible;
+	width: 1101px;
+	white-space: nowrap;
+	line-height: 152px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(108,108,108,1);
+}
+#MIZUKI_s_PORTFOLIO_A0_Text_43 {
+	position: absolute;
+	left: 60px;
+	top: 887px;
+	overflow: visible;
+	width: 1101px;
+	white-space: nowrap;
+	line-height: 152px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: Noto Sans CJK JP, noto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(217,217,217,1);
+}
